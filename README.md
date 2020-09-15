@@ -7,7 +7,7 @@
 - Soochow University
 - Email: xuejunma@suda.edu.cn
 ##  bf Time and Venue: 
-Monday: 13:30--16:30, 精正楼 334
+Monday: 13:30--16:30, 精正楼 306
 ## Office Hour: 
  Thursday: 14:00-16:00, 维格堂 215.
 ## Textbook:
